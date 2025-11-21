@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.cache
+
+# Build output
+bin/
+obj/
+
+# Logs
+*.log
+
+# Auto-generated files
+*.db
+*.sqlite
+*.tds
+*.pdb
+
+# ASP.NET environment
+appsettings.Development.json
